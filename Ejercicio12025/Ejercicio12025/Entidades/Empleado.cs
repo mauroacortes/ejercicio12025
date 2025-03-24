@@ -28,6 +28,9 @@ namespace Ejercicio12025.Entidades
         {
 
         }
+        public override void GetNombreCompleto()
+        {
 
+        }
     }
 }

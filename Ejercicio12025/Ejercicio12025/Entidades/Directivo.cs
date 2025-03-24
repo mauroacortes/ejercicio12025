@@ -8,5 +8,10 @@ namespace Ejercicio12025.Entidades
 {
     internal class Directivo : Empleado
     {
+
+        public override void GetNombreCompleto()
+        {
+
+        }
     }
 }

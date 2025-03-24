@@ -8,5 +8,9 @@ namespace Ejercicio12025.Entidades
 {
     internal class Docente :Empleado
     {
+        public override void GetNombreCompleto()
+        {
+
+        }
     }
 }

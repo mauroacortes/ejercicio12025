@@ -20,7 +20,7 @@ namespace Ejercicio12025.Entidades
 
         public abstract void GetCredencial();
 
-        protected virtual void GetNombreCompleto()
+        public virtual void GetNombreCompleto()
         {
 
         }
