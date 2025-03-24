@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\ejercicio12025\\entidades\\bedel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|c:\\users\\mauri\\onedrive\\documentos\\universidad\\uba\\construccion de aplicaciones informaticas\\repositorios\\ejercicio12025\\ejercicio12025\\ejercicio12025\\entidades\\bedel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|solutionrelative:ejercicio12025\\entidades\\bedel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,19 +15,19 @@
       "RelativeMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|solutionrelative:ejercicio12025\\entidades\\directivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\ejercicio12025\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|solutionrelative:ejercicio12025\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\ejercicio12025\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|solutionrelative:ejercicio12025\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\ejercicio12025\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|solutionrelative:ejercicio12025\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\ejercicio12025\\entidades\\facultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|solutionrelative:ejercicio12025\\entidades\\facultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|c:\\users\\mauri\\onedrive\\documentos\\universidad\\uba\\construccion de aplicaciones informaticas\\repositorios\\ejercicio12025\\ejercicio12025\\ejercicio12025\\formempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\ejercicio12025\\formempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{802EF8B2-24CB-41A8-B642-8C1F78EBB22E}|Ejercicio12025\\Ejercicio12025.csproj|solutionrelative:ejercicio12025\\formempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -69,8 +69,7 @@
               "ToolTip": "C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\Ejercicio12025\\FormEmpleados.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicio12025\\FormEmpleados.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T20:15:28.176Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-24T20:15:28.176Z"
             },
             {
               "$type": "Document",
@@ -86,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\Ejercicio12025\\Entidades\\Persona.cs",
               "RelativeDocumentMoniker": "Ejercicio12025\\Entidades\\Persona.cs",
               "ToolTip": "C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\Ejercicio12025\\Entidades\\Persona.cs",
               "RelativeToolTip": "Ejercicio12025\\Entidades\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:55:21.362Z",
               "EditorCaption": ""
@@ -107,18 +106,17 @@
               "RelativeToolTip": "Ejercicio12025\\Entidades\\Facultad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:54:55.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T19:54:55.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\Ejercicio12025\\Entidades\\Empleado.cs",
               "RelativeDocumentMoniker": "Ejercicio12025\\Entidades\\Empleado.cs",
               "ToolTip": "C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\Ejercicio12025\\Entidades\\Empleado.cs",
               "RelativeToolTip": "Ejercicio12025\\Entidades\\Empleado.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:54:42.117Z",
               "EditorCaption": ""
@@ -131,7 +129,7 @@
               "RelativeDocumentMoniker": "Ejercicio12025\\Entidades\\Docente.cs",
               "ToolTip": "C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\Ejercicio12025\\Entidades\\Docente.cs",
               "RelativeToolTip": "Ejercicio12025\\Entidades\\Docente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:54:26.253Z",
               "EditorCaption": ""
@@ -144,7 +142,7 @@
               "RelativeDocumentMoniker": "Ejercicio12025\\Entidades\\Directivo.cs",
               "ToolTip": "C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\Ejercicio12025\\Entidades\\Directivo.cs",
               "RelativeToolTip": "Ejercicio12025\\Entidades\\Directivo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:54:00.432Z",
               "EditorCaption": ""
@@ -157,7 +155,7 @@
               "RelativeDocumentMoniker": "Ejercicio12025\\Entidades\\Bedel.cs",
               "ToolTip": "C:\\Users\\mauri\\OneDrive\\Documentos\\Universidad\\UBA\\Construccion de Aplicaciones Informaticas\\Repositorios\\ejercicio12025\\Ejercicio12025\\Ejercicio12025\\Entidades\\Bedel.cs",
               "RelativeToolTip": "Ejercicio12025\\Entidades\\Bedel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:53:40.937Z",
               "EditorCaption": ""

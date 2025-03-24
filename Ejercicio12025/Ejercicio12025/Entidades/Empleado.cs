@@ -32,5 +32,12 @@ namespace Ejercicio12025.Entidades
         {
 
         }
+
+        protected string ListarEmpleados(bool listarconID)
+        {
+            string lista = "";
+            return lista;
+
+        }
     }
 }
